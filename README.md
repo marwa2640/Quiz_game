@@ -1,2 +1,8 @@
-# Quiz_game
-Simple Python quiz game that asks questions and calculates the user's score.
+# Quiz Game 🎮
+
+Simple Python quiz game.
+
+## Features
+- Ask questions
+- Calculate score
+- Easy to use
